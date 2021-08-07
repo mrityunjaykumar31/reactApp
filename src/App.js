@@ -29,9 +29,9 @@ function App() {
     <div className="App container mt-5">
 
       <div id="divToPrint">
-        <h2>therichpost.com</h2>
+        <h2 style={{textAlign: "center"}}>therichpost.com</h2>
 
-        <table class="table table-bordered">
+        <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
