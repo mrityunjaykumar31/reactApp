@@ -67,7 +67,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -103,7 +103,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -139,7 +139,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -175,7 +175,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -211,7 +211,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -247,7 +247,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -283,7 +283,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -319,7 +319,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -355,7 +355,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -391,7 +391,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -427,7 +427,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -463,7 +463,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -499,7 +499,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
@@ -535,7 +535,7 @@ function App() {
             </tr>
           </tbody>
         </table>
-        <table class="table table-bordered">
+         <table class="table table-bordered" style={{margin: '10px 10px 10px 10px'}}>
           <thead>
             <tr>
               <th>Firstname</th>
